@@ -1,4 +1,4 @@
-# Django + ReactJS + MySQL/MariaDB template
+## Django + ReactJS + MySQL/MariaDB template with JWT Token authorization
 
 ### Frontend
 1) (Optional) Create a new frontend from root folder: `npm create vite@latest frontend -- --template react`
