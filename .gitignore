@@ -1,0 +1,47 @@
+# Environment files
+.env*
+
+# Virtual environment
+env/
+
+# Frontend build files
+node_modules/
+build/
+dist/
+public/
+
+# Common IDE files
+*.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Database files
+db.sqlite3
+
+# Coverage reports
+coverage/
+
+# Compiled files (if applicable)
+*.pyc
+
+# Tests (optional)
+__pycache__/
+tests/
+
+# Django specific files
+*.sqlite3
+
+# Editor temporary files
+*.swp
+*.swo
+
+# Other common ignore files
+*.DS_Store
+Thumbs.db
+
+# Specific frontend ignore files (adjust based on your setup)
+frontend/build/
+frontend/dist/
+frontend/public/
