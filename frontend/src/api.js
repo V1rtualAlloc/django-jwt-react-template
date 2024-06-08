@@ -7,7 +7,7 @@
 import axios from "axios";
 import { ACCESS_TOKEN } from "./constants";
 
-// deployment url
+// deployment url (Chorio, ...)
 const apiUrl = "/my/deployment/url";
 
 const api = axios.create({
