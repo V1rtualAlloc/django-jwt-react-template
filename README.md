@@ -1,3 +1,5 @@
+# Django + ReactJS + MySQL/MariaDB template
+
 ### Frontend
 1) (Optional) Create a new frontend from root folder: `npm create vite@latest frontend -- --template react`
 2) (Optional) Install dependencies `npm install axios react-router-dom jwt-decode`
